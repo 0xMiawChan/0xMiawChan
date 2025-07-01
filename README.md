@@ -18,6 +18,6 @@
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:    Python · Bash · JavaScript
-Dev Tools:    Docker · Git · VS Code · Postman
-Tech Focus:   Cybersecurity · AI/ML · Backend Dev
+Languages:    Python · kotlin · JavaScript
+Dev Tools:    Docker · Git · VS Code · 
+Tech Focus:   Cybersecurity · UI Design · Front end
