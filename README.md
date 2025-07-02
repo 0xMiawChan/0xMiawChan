@@ -18,10 +18,13 @@
 - 🧪 Fun fact: I enjoy turning problems into code (and breaking it again)
 
 ---
+<h3 align="center">🚀 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
+  <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
+</p>
 
-### 🛠️ Tech Stack
 
-```bash
-Languages:    Python · kotlin · JavaScript
-Dev Tools:    Docker · Git · VS Code · 
-Tech Focus:   Cybersecurity · UI Design · Front end
+
