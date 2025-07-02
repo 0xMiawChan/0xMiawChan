@@ -20,9 +20,9 @@
 ---
 | Teknologi    | Logo                                                                 |
 |--------------|----------------------------------------------------------------------|
-| Framework/Library    | <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />  <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" />  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />  <img src="https://skillicons.dev/icons?i=react" width="40" />    |
-| DevOps / Tools |  <img src="https://skillicons.dev/icons?i=docker" width="40" />  <img src="https://skillicons.dev/icons?i=git" width="40" />  <img src="https://skillicons.dev/icons?i=github" width="40" />  <img src="https://skillicons.dev/icons?i=gitlab" width="40" />  <img src="https://skillicons.dev/icons?i=vscode" width="40" />  <img src="https://skillicons.dev/icons?i=figma" width="40" />  <img src="https://skillicons.dev/icons?i=pycharm" width="40" />
-
+| Framework/Library    | <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />  <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" />  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />  <img src="https://skillicons.dev/icons?i=react" width="40" />  <img src="https://skillicons.dev/icons?i=npm" width="40" />|
+| DevOps / Tools |  <img src="https://skillicons.dev/icons?i=docker" width="40" />  <img src="https://skillicons.dev/icons?i=git" width="40" />  <img src="https://skillicons.dev/icons?i=github" width="40" />  <img src="https://skillicons.dev/icons?i=gitlab" width="40" />  <img src="https://skillicons.dev/icons?i=vscode" width="40" />  <img src="https://skillicons.dev/icons?i=figma" width="40" />  <img src="https://skillicons.dev/icons?i=pycharm" width="40" />  <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
+| Programming | <img src="https://skillicons.dev/icons?i=html" width="40" />  <img src="https://skillicons.dev/icons?i=css" width="40" />  <img src="https://skillicons.dev/icons?i=js" width="40" />  <img src="https://skillicons.dev/icons?i=python" width="40" />  <img src="https://skillicons.dev/icons?i=kotlin" width="40" />
 
 
 
